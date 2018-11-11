@@ -1,0 +1,23 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "MathCalculator plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antony-augusta/MathCalculator.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin"
+  ],
+  "author": "Antony Arul Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antony-augusta/MathCalculator/issues"
+  },
+  "homepage": "https://github.com/Antony-augusta/MathCalculator#readme"
+}
